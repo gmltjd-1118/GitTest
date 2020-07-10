@@ -2,7 +2,8 @@ package com.study.springboot;
 
 public class MyController {
 	
-	// 수정작업...
+	// 수정작업... 개발자A
+	// 수정작업.. 개발자B
 	
 	// Git Test
 	// Git 사용하는 장점
